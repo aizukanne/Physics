@@ -47,10 +47,12 @@ Several documents provide guidance for content development:
 
 The textbook is under active development. Current progress:
 
-- ✅ Chapter 0: Introduction to Physics - Basic structure
-- ✅ Chapter 1: Measurements and Units - Content complete, enhancements ongoing
-- ✅ Chapter 2: Mechanics - Content complete, enhancements ongoing
+- ✅ Chapter 0: Introduction to Physics - Basic structure, README complete
+- ✅ Chapter 1: Measurements and Units - All sections fully enhanced and complete
+- ✅ Chapter 2: Mechanics - All sections fully enhanced and complete
 - 🔄 Chapter 3-9: Structure established, content development in progress
+
+See the [Phase 1 Completion Report](./PHASE1_COMPLETION_REPORT.md) for details on recent achievements and next steps.
 
 See the [Phase 1 Completion Report](./PHASE1_COMPLETION_REPORT.md) for details on recent progress and next steps.
 
