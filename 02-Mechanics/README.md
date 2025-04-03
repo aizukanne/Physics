@@ -11,4 +11,6 @@ Mechanics is the branch of physics concerned with the motion of objects and the 
 *   **2.5 Circular Motion:** Analyzing the motion of objects moving in a circle, including concepts like centripetal acceleration and centripetal force.
 *   **2.6 Simple Harmonic Motion (SHM):** Investigating oscillatory motion, including the conditions for SHM, Hooke's Law, and the behavior of systems like springs and pendulums.
 
-*(Note: Concepts like Pressure, Elasticity, and Simple Machines may be integrated or covered in subsequent sections as needed.)*
+*   **2.7 Simple Machines:** Understanding the principles of levers, pulleys, inclined planes, etc., and calculating mechanical advantage and efficiency.
+*   **2.8 Pressure:** Defining pressure in solids and fluids, Pascal's principle, and Archimedes' principle (buoyancy).
+*   **2.9 Elasticity:** Exploring stress, strain, Hooke's Law for materials, Young's Modulus, and elastic potential energy.
